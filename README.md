@@ -11,3 +11,8 @@ Char: que contiene un solo carácter.
 Boolean: que puede tener dos valores, true y false.
 Cómo representar textos en Java utilizando la clase String.
 Cómo realizar casting de valores para resolver situaciones de tipos incompatibles al realizar cálculos o asignaciones de variables.
+
+Tercera Parte 
+
+
+Cuarta Parte
