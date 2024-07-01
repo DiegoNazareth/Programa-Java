@@ -1,7 +1,7 @@
-Primera Parte
+Primera Parte - El primer programa en Java
 
 
-Segunda Parte  que se trabajo en l programa 
+Segunda Parte - Constuyendo el catalogo de peliculas
 
 Cómo trabajar con variables: un recurso utilizado para almacenar valores en la memoria.
 Sobre los tipos primitivos:
@@ -12,7 +12,7 @@ Boolean: que puede tener dos valores, true y false.
 Cómo representar textos en Java utilizando la clase String.
 Cómo realizar casting de valores para resolver situaciones de tipos incompatibles al realizar cálculos o asignaciones de variables.
 
-Tercera Parte 
+Tercera Parte -Controlando el flujo de la aplicacion
 
 
-Cuarta Parte
+Cuarta Parte -
